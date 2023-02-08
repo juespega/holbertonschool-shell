@@ -10,3 +10,4 @@
 9. This script id for delete the directory my_first_directory
 10. This script is for change the working directory to the previous one
 11. This script is for lists all files
+12. This script is for prints the type of the file
