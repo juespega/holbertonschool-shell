@@ -6,3 +6,4 @@
 5. This script is for list current contents, long format, with user and group IDS, and hidden files
 6. This script is for create a directory name my_first_directory in the /tmp/ directory
 7. This script is for move the file betty
+8. This script is for delete the file betty
