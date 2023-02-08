@@ -7,3 +7,4 @@
 6. This script is for create a directory name my_first_directory in the /tmp/ directory
 7. This script is for move the file betty
 8. This script is for delete the file betty
+9. This script id for delete the directory my_first_directory
